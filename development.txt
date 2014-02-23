@@ -1,0 +1,17 @@
+
+http://oss.infoscience.co.jp/neo4j/neo4j.org/index.html
+
+ダウンロード後に
+
+sudo bin/neo4j install
+
+起動は
+sudo bin/neo4j start
+停止は
+sudo bin/neo4j stop
+
+Rubyから使う場合
+　https://github.com/maxdemarzi/neography
+
+
+
